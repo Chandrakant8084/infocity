@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+.tableshadow {
+    box-shadow: 10px 10px 5px #999;
+    padding-top: 40px;
+    border: solid 1px #60b2e7;
+    background-color: burlywood;
+}
+
+.lefttxt {
+    padding-left: 40px;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+}
+
+.toptd {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    height: 40px;
+    background-color: darkgoldenrod;
+}
+
+input[type=submit] {
+    background-color: cadetblue;
+    color: black;
+    height: 30px;
+    width: 110px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input[type=submit]:hover {
+    color: blue;
+}
